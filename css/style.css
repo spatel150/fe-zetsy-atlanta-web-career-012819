@@ -18,3 +18,24 @@ body {
 }
 
 /* Write all remaining styles here */
+h1 {
+  color: #555;
+  font-size: 3em;
+}
+
+h2 {
+  color: #555;
+  font-size: 3em;
+}
+
+p {
+  color: #555;
+}
+
+.single_tile {
+  border: 3px solid white;
+}
+
+.single_tile: hover {
+  border: 3px solid black;
+}
