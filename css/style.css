@@ -35,4 +35,6 @@ p {
   border: 3px solid white;
 }
 
-.
+.single_tile: hover {
+  border: 3px solid black;
+}
